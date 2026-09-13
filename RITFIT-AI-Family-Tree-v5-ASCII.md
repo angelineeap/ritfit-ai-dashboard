@@ -25,7 +25,7 @@ RITFIT Marketing AI System
 │   │   └── 🛠️ Lark Base · Lark Mail
 │   ├── 🤖 cherry-cleanup ✅ v2.0.0
 │   │   └── 🛠️ JDY · Lark Base · Lark Docs
-│   ├── 🤖 ritfit-ai-dashboard ✅ v4.4.0
+│   ├── 🤖 ritfit-ai-dashboard ✅ v4.5.0
 │   │   ├── 📁 Visual Guidelines · IP Checklist
 │   │   └── 🛠️ JDY · GERP · Canva · Bitly · Shopify · Lark Base · Lark Mail · Web Scraping
 │   ├── 🤖 ritfit-github-skill-maker ✅ v2.0.0
