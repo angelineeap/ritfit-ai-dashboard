@@ -1,11 +1,21 @@
 # RITFIT AI Dashboard
 
-## ▶ Preview it (click this)
+## ▶ Preview it
 
-**https://htmlpreview.github.io/?https://github.com/angelineeap/ritfit-ai-dashboard/blob/main/ritfit-ai-dashboard.html**
+**https://angelineeap.github.io/ritfit-ai-dashboard/**
 
-Opens the rendered dashboard in any browser — desktop or phone, no GitHub account, no login.
+That is the short, permanent link. Remember this one — it is the address of this repo plus
+`.github.io`, in the same order as the repo path you already know:
+
+```
+github.com/angelineeap/ritfit-ai-dashboard   →   angelineeap.github.io/ritfit-ai-dashboard/
+```
+
+It opens the rendered dashboard in any browser — desktop or phone, no GitHub account, no login.
 Bookmark it. This is the link to share.
+
+A longer fallback, if Pages is ever down:
+`https://htmlpreview.github.io/?https://github.com/angelineeap/ritfit-ai-dashboard/blob/main/ritfit-ai-dashboard.html`
 
 > This repo is **public** (since 2026-09-13) so that the preview link above works without a
 > login. It describes the internal agent system, so treat additions with care — see
