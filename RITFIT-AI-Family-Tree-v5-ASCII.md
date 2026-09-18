@@ -19,16 +19,16 @@ RITFIT Marketing AI System
 │   └── 📄 ritfit-running-context.md
 │
 ├── 🧠 Bob — Architect, coordinator, maintenance
-│   ├── 🤖 cherry-agent-onboarding ✅ v3.1.0
+│   ├── 🤖 cherry-agent-onboarding ✅ v4.0.0
 │   │   └── 🛠️ Lark Base
 │   ├── 🤖 cherry-agents-relink ✅ v2.2.0
 │   │   └── 🛠️ Lark Base · Lark Mail
-│   ├── 🤖 cherry-cleanup ✅ v2.0.0
+│   ├── 🤖 cherry-cleanup ✅ v2.1.0
 │   │   └── 🛠️ JDY · Lark Base · Lark Docs
-│   ├── 🤖 ritfit-ai-dashboard ✅ v4.5.0
+│   ├── 🤖 ritfit-ai-dashboard ✅ v4.7.1
 │   │   ├── 📁 Visual Guidelines · IP Checklist
 │   │   └── 🛠️ JDY · GERP · Canva · Bitly · Shopify · Lark Base · Lark Mail · Web Scraping
-│   ├── 🤖 ritfit-github-skill-maker ✅ v2.0.0
+│   ├── 🤖 ritfit-github-skill-maker ✅ v3.0.0
 │   │   └── 🛠️ Lark Base
 │   ├── 🤖 ritfit-stress-test ✅ v1.0.0
 │   ├── ⏰ Scheduled: monthly (1st, 10:00)
@@ -41,7 +41,7 @@ RITFIT Marketing AI System
 │   │   ├── 🛠️ JDY · Bitly · Lark Base · Lark Mail
 │   │   ├── 🔗 → post-register
 │   │   └── 👤 human reviews
-│   ├── 🤖 ritfit-bitly-code ✅ v3.6.0
+│   ├── 🤖 ritfit-bitly-code ✅ v3.7.0
 │   │   ├── 📁 Product Catalogue
 │   │   ├── 🛠️ JDY · Bitly · Shopify · Lark Base
 │   │   └── also on Lulu
@@ -53,7 +53,7 @@ RITFIT Marketing AI System
 │   │   ├── 🛠️ JDY · Lark Base · Lark Mail · Lark Docs
 │   │   ├── 🔗 → new-collab · email-reply
 │   │   └── 👤 human reviews · also on Tracey
-│   ├── 🤖 ritfit-email-reply ✅ v6.11.0
+│   ├── 🤖 ritfit-email-reply ✅ v7.0.0
 │   │   ├── 📁 Running Context · Product Catalogue
 │   │   ├── 🛠️ JDY · Bitly · Lark Base · Lark Mail
 │   │   ├── 🔗 → contract-maker ⏳
@@ -78,7 +78,7 @@ RITFIT Marketing AI System
 │   │   ├── 🧩 Supporting — Shared lookup table — Base IDs and tokens for every Feishu skill
 │   │   ├── 🛠️ Lark Base
 │   │   └── also on Lulu, Scooby, Tracey
-│   ├── 🤖 ritfit-payment ✅ v2.0.2
+│   ├── 🤖 ritfit-payment ✅ v3.0.0
 │   │   ├── 🛠️ JDY · Lark Base · Lark Mail
 │   │   └── 👤 human reviews
 │   ├── 🤖 ritfit-post-register ✅ v3.0.0
@@ -87,18 +87,15 @@ RITFIT Marketing AI System
 │   ├── 🤖 ritfit-product-launch-planner ✅
 │   │   ├── 📁 Brand Context · Brand Voice · Product Catalogue
 │   │   └── 🛠️ Bitly
-│   ├── 🤖 ritfit-showroom-manager ✅ v1.1.0
-│   │   ├── 🛠️ Lark Base
-│   │   └── also on Tracey
 │   ├── ⏰ Scheduled: every 3 days (09:30) · every 3 days (10:00) · every 3 days (09:30) · weekly (Mon 09:30)
 │   └── 🛠️ Shared toolkit (23) — lark-* · feishu-* · find-skills · skill-creator
 │
 ├── 📧 Lulu — KOL email replies
-│   ├── 🤖 ritfit-bitly-code ✅ v3.6.0
+│   ├── 🤖 ritfit-bitly-code ✅ v3.7.0
 │   │   ├── 📁 Product Catalogue
 │   │   ├── 🛠️ JDY · Bitly · Shopify · Lark Base
 │   │   └── also on Cinnamon
-│   ├── 🤖 ritfit-email-reply ✅ v6.11.0
+│   ├── 🤖 ritfit-email-reply ✅ v7.0.0
 │   │   ├── 📁 Running Context · Product Catalogue
 │   │   ├── 🛠️ JDY · Bitly · Lark Base · Lark Mail
 │   │   ├── 🔗 → contract-maker ⏳
@@ -115,12 +112,22 @@ RITFIT Marketing AI System
 │   └── 🛠️ Shared toolkit (23) — lark-* · feishu-* · find-skills · skill-creator
 │
 ├── ✍️ Scooby — Content creation
+│   ├── 🤖 content-workspace-read ✅
+│   │   ├── 🛠️ Lark Base
+│   │   └── 👤 human reviews
+│   ├── 🤖 ritfit-canva-maker ✅
+│   │   └── 🛠️ Canva
 │   ├── 🤖 ritfit-content ✅
 │   │   ├── 📁 Brand Voice · Brand Context · Product Catalogue · Running Context
 │   │   └── 🛠️ Shopify · Lark Base · Lark Docs
 │   ├── 🤖 ritfit-content-idea-register ✅ v2.7.0
 │   │   ├── 🛠️ Lark Base · Web Scraping
 │   │   └── 🔗 → scraping
+│   ├── 🤖 ritfit-content-visual ✅
+│   │   ├── 📁 Product Catalogue · Visual Guidelines · IP Checklist
+│   │   └── 🛠️ Canva · Lark Base · Web Scraping
+│   ├── 🤖 ritfit-idea-to-calendar ✅
+│   │   └── 🛠️ Lark Base
 │   ├── 🧩 ritfit-lark-hardcode-fallback ✅ v1.0.0
 │   │   ├── 🧩 Supporting — Shared lookup table — Base IDs and tokens for every Feishu skill
 │   │   ├── 🛠️ Lark Base
@@ -150,7 +157,7 @@ RITFIT Marketing AI System
     │   ├── 🛠️ JDY · Lark Base · Lark Mail · Lark Docs
     │   ├── 🔗 → new-collab · email-reply
     │   └── 👤 human reviews · also on Cinnamon
-    ├── 🤖 ritfit-email-reply ✅ v6.11.0
+    ├── 🤖 ritfit-email-reply ✅ v7.0.0
     │   ├── 📁 Running Context · Product Catalogue
     │   ├── 🛠️ JDY · Bitly · Lark Base · Lark Mail
     │   ├── 🔗 → contract-maker ⏳
@@ -169,14 +176,16 @@ RITFIT Marketing AI System
     │   └── also on Cinnamon, Lulu, Scooby
     ├── 🤖 ritfit-new-collab ✅ v4.1.0
     │   └── 🛠️ JDY · Bitly · Lark Base · Lark Docs
-    ├── 🤖 ritfit-new-order-draft ✅ v1.25.0
+    ├── 🤖 ritfit-new-order-draft ✅ v1.29.0
     │   ├── 🛠️ JDY · GERP · Lark Base
     │   └── 🔗 → new-order-submit
-    ├── 🤖 ritfit-new-order-submit ✅ v1.15.0
+    ├── 🤖 ritfit-new-order-submit ✅ v1.18.0
     │   └── 🛠️ JDY · GERP · Lark Base
-    ├── 🤖 ritfit-showroom-manager ✅ v1.1.0
-    │   ├── 🛠️ Lark Base
-    │   └── also on Cinnamon
+    ├── 🤖 ritfit-showroom-order-draft ✅ v2.2.0
+    │   ├── 🛠️ JDY · GERP · Lark Base
+    │   └── 👤 human reviews
+    ├── 🤖 ritfit-showroom-tracking ✅
+    │   └── 🛠️ JDY · GERP · Lark Base
     ├── 🤖 ritfit-tracking-JDY ✅
     │   ├── 🛠️ JDY · GERP · Lark Base · Lark Mail
     │   └── 👤 human reviews
